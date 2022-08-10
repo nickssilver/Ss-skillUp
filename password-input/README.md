@@ -1,6 +1,6 @@
 # Password Input Script
 
-## [See Live](https://https://codepen.io/nickssilver/pen/ZExjNRg)
+## [See Live](https://codepen.io/nickssilver/pen/ZExjNRg)
 
 # Preview
 
