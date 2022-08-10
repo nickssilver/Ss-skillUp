@@ -1,4 +1,4 @@
-# Password Input
+# Password Input Script
 
 ## [See Live](https://codepen.io/hicoders/pen/wvmwzoE)
 
