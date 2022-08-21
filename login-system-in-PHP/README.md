@@ -1,0 +1,3 @@
+# LOGIN SYSTEM USING PHP & MYSQL (PDO)
+A simple PHP Login System.Here, you learned how to create a PHP Login form, to create a CSS sheet for the website, how to create a database, code for the Database connection and form validation.
+- PHP is a server-side scripting programming language, and MySQL is an open-source relational database management system. These two frameworks, when used together, are capable of providing highly unique solutions, like creating a login form. 
